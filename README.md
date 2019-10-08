@@ -1,4 +1,7 @@
-# Switch To Benedu
+# Switch To Benedu [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
+<img alt="banner with logo" src="./screenshots/banner.png" width="512">
+
 > 🌐→🐝
 
 선생님이 오면 바로 베네듀를 열 수 있는 단축키를 제공하는 크롬 익스텐션이예요!

@@ -21,5 +21,11 @@
 			"src/background.js"
 		],
 		"persistent": true
+	},
+	"browser_action": {
+		"default_icon": "icons/icon.png"
+	},
+	"icons": {
+		"128": "icons/icon.png"
 	}
 }
