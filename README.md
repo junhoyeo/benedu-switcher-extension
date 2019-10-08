@@ -18,11 +18,11 @@
 
 > Chrome 브라우저 설치하기
 
-본 플러그인은 아쉽게도 현재 Chrome만을 지원합니다! 아마 디미고 학생이라면 대부분 이미 사용하고 있겠지만, 혹시라도 아직 없다면 [Chrome 다운로드 링크](http://chrome.com)에서 다운받아 설치하세요!
+본 플러그인은 아쉽게도 현재 Chrome만을 지원합니다. 아마 디미고 학생이라면 대부분 이미 사용하고 있겠지만, 혹시라도 아직 없다면 [Chrome 다운로드 링크](http://chrome.com)에서 다운받아 설치하세요!
 
 ### 확장 프로그램 다운로드
 
-<img alt="download-this-extension" src="./screenshots/download.png" width="512">
+<img alt="download-this-extension" src="./screenshots/download.png?v=2" width="512">
 
 > 확장 프로그램 다운받기
 
@@ -30,7 +30,7 @@
 
 ### 확장 프로그램 설치
 
-<img alt="install-this-extension" src="./screenshots/extensions.png" width="816">
+<img alt="install-this-extension" src="./screenshots/extensions.png?v=2" width="816">
 
 > 확장 프로그램 설치 및 사용 설정
 
@@ -48,6 +48,6 @@
 ## 추후 계획
 - 😂 다음에는 여러분들께서 **언제, 어디서든 베네듀를 즐길 수 있도록** 다른 프로그램 사용 시에도 베네듀를 열 수 있는 프로그램들을 만들어 볼게요!
 
-- 본 플러그인 역시 심심할 때마다 업데이트할 예정이예요. 
+- 🎉 본 플러그인 역시 심심할 때마다 업데이트할 예정이예요. 
 
 - ⭐️ 유용하게 사용하고 계신다면 GitHub **스타를 눌러주시면** 정말 고마울 것 같아요!
