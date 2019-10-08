@@ -1,0 +1,25 @@
+{
+	"manifest_version": 2,
+	"name": "Benedu Switcher",
+	"author": "Junho Yeo",
+	"version": "1.0",
+	"description": "Add keyboard shortcut to Benedu",
+	"permissions": [
+		"tabs"
+	],
+	"commands": {
+		"open-benedu-tab": {
+			"suggested_key": {
+				"default": "Ctrl+X",
+				"mac": "Command+X"
+			},
+			"description": "Open Benedu"
+		}
+	},
+	"background": {
+		"scripts": [
+			"src/background.js"
+		],
+		"persistent": true
+	}
+}
