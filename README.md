@@ -1,4 +1,4 @@
-# Switch To Benedu [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+# Benedu Switcher Extension [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 <img alt="banner with logo" src="./screenshots/banner.png" width="512">
 
